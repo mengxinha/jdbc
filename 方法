@@ -1,0 +1,17 @@
+JDBC   标准库提供的一套API
+
+下载jar包
+1，中央仓库网站 https://mvnrepository.com/
+2，找mysql
+3，找对应版本
+4，下载jar
+
+
+创建一个项目
+1，创建一个文件 （什么都不选）
+2，和src同级新建一个目录lib
+3，在lib里粘贴jar包
+4，右键lib目录 点击添加为库（倒数第二行） add as library
+
+
+java代码操作Mysql
